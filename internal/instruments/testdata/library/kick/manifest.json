@@ -1,0 +1,8 @@
+{
+  "id": "Kick",
+  "name": "Acoustic Kick Drum",
+  "sample": "kick.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

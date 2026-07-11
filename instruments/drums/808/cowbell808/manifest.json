@@ -1,0 +1,8 @@
+{
+  "id": "Cowbell808",
+  "name": "TR-808 Cowbell",
+  "sample": "Cowbell808.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

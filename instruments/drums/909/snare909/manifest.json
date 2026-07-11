@@ -1,0 +1,8 @@
+{
+  "id": "Snare909",
+  "name": "TR-909 Snare",
+  "sample": "Snare909.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

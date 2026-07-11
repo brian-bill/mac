@@ -1,0 +1,8 @@
+{
+  "id": "Clave808",
+  "name": "TR-808 Clave",
+  "sample": "Clave808.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

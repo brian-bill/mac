@@ -1,0 +1,8 @@
+{
+  "id": "Kick808Long",
+  "name": "TR-808 Bass Drum (Long Decay)",
+  "sample": "Kick808Long.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

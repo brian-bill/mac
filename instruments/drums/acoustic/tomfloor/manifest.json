@@ -1,0 +1,8 @@
+{
+  "id": "TomFloor",
+  "name": "Acoustic Floor Tom",
+  "sample": "TomFloor.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

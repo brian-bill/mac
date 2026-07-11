@@ -1,0 +1,8 @@
+{
+  "id": "OhkawaMute",
+  "name": "Ohkawa (Mute)",
+  "sample": "OhkawaMute.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": "Kick909",
+  "name": "TR-909-style Kick",
+  "sample": "Kick909.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

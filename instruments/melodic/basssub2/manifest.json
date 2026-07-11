@@ -1,0 +1,8 @@
+{
+  "id": "BassSub2",
+  "name": "Sub Bass 2",
+  "sample": "BassSub2.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

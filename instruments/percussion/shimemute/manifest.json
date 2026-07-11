@@ -1,0 +1,8 @@
+{
+  "id": "ShimeMute",
+  "name": "Shime Daiko (Mute)",
+  "sample": "ShimeMute.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

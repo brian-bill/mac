@@ -1,0 +1,8 @@
+{
+  "id": "CR78Ride",
+  "name": "CR-78 Ride",
+  "sample": "CR78Ride.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

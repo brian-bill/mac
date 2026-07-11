@@ -1,0 +1,8 @@
+{
+  "id": "OhkawaOpen",
+  "name": "Ohkawa (Open)",
+  "sample": "OhkawaOpen.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": "Conga808Mid",
+  "name": "TR-808 Mid Conga",
+  "sample": "Conga808Mid.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

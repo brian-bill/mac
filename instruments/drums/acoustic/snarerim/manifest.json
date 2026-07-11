@@ -1,0 +1,8 @@
+{
+  "id": "SnareRim",
+  "name": "Acoustic Snare (Slack)",
+  "sample": "SnareRim.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

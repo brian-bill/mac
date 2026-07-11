@@ -1,0 +1,8 @@
+{
+  "id": "TablaBass",
+  "name": "Tabla Bass Flick",
+  "sample": "TablaBass.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

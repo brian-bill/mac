@@ -1,0 +1,8 @@
+{
+  "id": "HatOpen909",
+  "name": "TR-909 Open Hat",
+  "sample": "HatOpen909.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

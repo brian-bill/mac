@@ -1,0 +1,8 @@
+{
+  "id": "WoodBlock",
+  "name": "Wood Block",
+  "sample": "WoodBlock.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

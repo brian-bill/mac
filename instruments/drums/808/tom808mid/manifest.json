@@ -1,0 +1,8 @@
+{
+  "id": "Tom808Mid",
+  "name": "TR-808 Mid Tom",
+  "sample": "Tom808Mid.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

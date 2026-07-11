@@ -1,0 +1,8 @@
+{
+  "id": "Wind1",
+  "name": "Wind FX 1",
+  "sample": "Wind1.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

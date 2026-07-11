@@ -1,0 +1,8 @@
+{
+  "id": "Snare808",
+  "name": "TR-808 Snare",
+  "sample": "Snare808.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

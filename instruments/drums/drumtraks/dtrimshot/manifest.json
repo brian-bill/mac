@@ -1,0 +1,8 @@
+{
+  "id": "DTRimshot",
+  "name": "DrumTraks Rimshot",
+  "sample": "DTRimshot.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": "Snare909Rim",
+  "name": "TR-909 Rimshot",
+  "sample": "Snare909Rim.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": "DTCrash",
+  "name": "DrumTraks Crash",
+  "sample": "DTCrash.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

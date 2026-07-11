@@ -1,0 +1,8 @@
+{
+  "id": "DTHatClosed",
+  "name": "DrumTraks Closed Hat",
+  "sample": "DTHatClosed.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

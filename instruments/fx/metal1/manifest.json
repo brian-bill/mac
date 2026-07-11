@@ -1,0 +1,8 @@
+{
+  "id": "Metal1",
+  "name": "Metal Hit 1",
+  "sample": "Metal1.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

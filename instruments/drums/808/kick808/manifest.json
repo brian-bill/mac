@@ -1,0 +1,8 @@
+{
+  "id": "Kick808",
+  "name": "TR-808 Bass Drum",
+  "sample": "Kick808.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

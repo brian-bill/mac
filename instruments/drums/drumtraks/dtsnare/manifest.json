@@ -1,0 +1,8 @@
+{
+  "id": "DTSnare",
+  "name": "DrumTraks Snare",
+  "sample": "DTSnare.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

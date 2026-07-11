@@ -1,0 +1,8 @@
+{
+  "id": "Clap909",
+  "name": "TR-909 Hand Clap",
+  "sample": "Clap909.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

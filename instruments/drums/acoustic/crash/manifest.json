@@ -1,0 +1,8 @@
+{
+  "id": "Crash",
+  "name": "Acoustic Crash",
+  "sample": "Crash.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

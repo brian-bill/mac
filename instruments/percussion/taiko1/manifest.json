@@ -1,0 +1,8 @@
+{
+  "id": "Taiko1",
+  "name": "Taiko Drum 1",
+  "sample": "Taiko1.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": "RideBell",
+  "name": "Acoustic Ride Bell",
+  "sample": "RideBell.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

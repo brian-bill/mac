@@ -1,0 +1,8 @@
+{
+  "id": "CR78RideBright",
+  "name": "CR-78 Ride (Bright)",
+  "sample": "CR78RideBright.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

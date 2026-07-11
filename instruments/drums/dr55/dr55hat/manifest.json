@@ -1,0 +1,8 @@
+{
+  "id": "DR55Hat",
+  "name": "Boss DR-55 Hi-Hat",
+  "sample": "DR55Hat.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

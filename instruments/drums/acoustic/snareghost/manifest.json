@@ -1,0 +1,8 @@
+{
+  "id": "SnareGhost",
+  "name": "Acoustic Snare (Ghost)",
+  "sample": "SnareGhost.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

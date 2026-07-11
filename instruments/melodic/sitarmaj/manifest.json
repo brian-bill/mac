@@ -1,0 +1,8 @@
+{
+  "id": "SitarMaj",
+  "name": "Sitar Chord (D Major)",
+  "sample": "SitarMaj.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": "Noise",
+  "name": "White Noise Hit",
+  "sample": "Noise.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

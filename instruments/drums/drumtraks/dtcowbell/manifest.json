@@ -1,0 +1,8 @@
+{
+  "id": "DTCowbell",
+  "name": "DrumTraks Cowbell",
+  "sample": "DTCowbell.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": "HatPedal",
+  "name": "Acoustic Pedal Hat",
+  "sample": "HatPedal.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

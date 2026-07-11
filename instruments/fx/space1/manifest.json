@@ -1,0 +1,8 @@
+{
+  "id": "Space1",
+  "name": "Space FX 1",
+  "sample": "Space1.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

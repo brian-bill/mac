@@ -1,0 +1,8 @@
+{
+  "id": "Cymbal808",
+  "name": "TR-808 Cymbal",
+  "sample": "Cymbal808.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": "DTKick",
+  "name": "DrumTraks Kick",
+  "sample": "DTKick.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

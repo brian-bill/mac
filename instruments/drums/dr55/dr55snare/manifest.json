@@ -1,0 +1,8 @@
+{
+  "id": "DR55Snare",
+  "name": "Boss DR-55 Snare",
+  "sample": "DR55Snare.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

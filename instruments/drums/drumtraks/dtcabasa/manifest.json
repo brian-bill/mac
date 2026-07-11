@@ -1,0 +1,8 @@
+{
+  "id": "DTCabasa",
+  "name": "DrumTraks Cabasa",
+  "sample": "DTCabasa.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

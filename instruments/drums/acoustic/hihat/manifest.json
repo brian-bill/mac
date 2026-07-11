@@ -1,0 +1,8 @@
+{
+  "id": "HiHat",
+  "name": "Acoustic Hi-Hat (alias)",
+  "sample": "HiHat.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

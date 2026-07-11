@@ -1,0 +1,8 @@
+{
+  "id": "Ride909",
+  "name": "TR-909 Ride",
+  "sample": "Ride909.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

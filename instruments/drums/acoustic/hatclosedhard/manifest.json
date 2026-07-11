@@ -1,0 +1,8 @@
+{
+  "id": "HatClosedHard",
+  "name": "Acoustic Closed Hat (Hard)",
+  "sample": "HatClosedHard.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

@@ -1,0 +1,2209 @@
+{
+  "canonical_format": {
+    "sample_rate": 44100,
+    "channels": 1,
+    "bit_depth": 16
+  },
+  "instruments": [
+    {
+      "id": "Kick",
+      "name": "Acoustic Kick",
+      "category": "drums/acoustic",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/gretsch/013_kick.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "c30f6a4e4da840f6e365e4cfa218dab518d52af8c0eef3ed967c7ad33f7279f0",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Snare",
+      "name": "Acoustic Snare",
+      "category": "drums/acoustic",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/gretsch/020_snare.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "b7974d035912778527b5e74e69607e6ad6a878e0e8bf458030be98e6d1f6ffa6",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "SnareHard",
+      "name": "Acoustic Snare (Hard)",
+      "category": "drums/acoustic",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/gretsch/022_snarehard.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "c0a9acd3ef089cddb96e7f8253437ae921f24c5e9bba9ac29dd788262146685a",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "SnareGhost",
+      "name": "Acoustic Snare (Ghost)",
+      "category": "drums/acoustic",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/gretsch/021_snareghost.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "72daa862200165dc423ec826ecbafd726c7f90075d99975178f32539ac1e010f",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "SnareRim",
+      "name": "Acoustic Snare (Slack)",
+      "category": "drums/acoustic",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/gretsch/023_snareslack.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "d892cc2189bd2298ded9efec64c46e5091c2a10a62374641b47d2d7af78bc8b2",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "HatClosed",
+      "name": "Acoustic Closed Hat",
+      "category": "drums/acoustic",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/gretsch/004_closedhat.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "bf72ef3742d7f579a7467f18e7bc328f08d9bd00e5783ae57bc91e7fe7c33bc0",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "HatClosedHard",
+      "name": "Acoustic Closed Hat (Hard)",
+      "category": "drums/acoustic",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/gretsch/005_closedhathard.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "f2da5f6e0dff2fa4362845b5ca4b0059a5eaf57871dcbd25fce8a33082ea785f",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "HatOpen",
+      "name": "Acoustic Open Hat",
+      "category": "drums/acoustic",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/gretsch/017_openhat.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "f6adf6219d136fac833cab687cbfeaba9ce31ad808bc115d5bad6e77d48f3f92",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "HatPedal",
+      "name": "Acoustic Pedal Hat",
+      "category": "drums/acoustic",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/gretsch/010_foothat.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "12ec38ef5a4c48ec100593f87e28aaa770d00ad471372a96b73291687ddb5578",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "HiHat",
+      "name": "Acoustic Hi-Hat (alias)",
+      "category": "drums/acoustic",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/gretsch/004_closedhat.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "bf72ef3742d7f579a7467f18e7bc328f08d9bd00e5783ae57bc91e7fe7c33bc0",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Ride",
+      "name": "Acoustic Ride",
+      "category": "drums/acoustic",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/gretsch/019_ridecymbal.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "9e6c9e614af075d63d13a72bd62f60ceb7f620f554bccfcf8470c056c04709a7",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "RideBell",
+      "name": "Acoustic Ride Bell",
+      "category": "drums/acoustic",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/gretsch/018_ridebell.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "f50e290dbd716613dda08b0e4327f0d2255b50fbfa3256b4725bce89c541fca7",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Crash",
+      "name": "Acoustic Crash",
+      "category": "drums/acoustic",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/gretsch/007_cymbalgrab.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "65e3f842b8d77a92fa3291cd5541f011855c1aa5c49c1a2cd4ed22e138f56156",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Tom1",
+      "name": "Acoustic Hi Tom",
+      "category": "drums/acoustic",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/gretsch/012_hitom.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "6d03541dc52a13cf6ef88acee812efdcb82c325125b76b0f8e5901f3934eeb97",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "TomFloor",
+      "name": "Acoustic Floor Tom",
+      "category": "drums/acoustic",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/gretsch/015_lotom.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "4e9bf29758f7afc05d471e32d6c5add113f49abd12441deefabb7845e7ea07fe",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Cowbell",
+      "name": "Acoustic Cowbell",
+      "category": "drums/acoustic",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/gretsch/006_cowbell.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "94baf0071bcbdeecf36cc6c69ad0209c4151607236481c3feac0cf5c726b4242",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Kick808",
+      "name": "TR-808 Bass Drum",
+      "category": "drums/808",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/tr808/BD/BD0000.WAV",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "c9681a6c0024d628108d68c5ef3ab2b2f294c148f4d7ccadfb83d611c84b6902",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Kick808Long",
+      "name": "TR-808 Bass Drum (Long Decay)",
+      "category": "drums/808",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/tr808/BD/BD0075.WAV",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "45c658a80fc6bc4666e737873f9faa1bb1d0693b0f03c14da23b0469db58771f",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Snare808",
+      "name": "TR-808 Snare",
+      "category": "drums/808",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/tr808/SD/SD0000.WAV",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "4cdc09ab67159784b210735dcb76014fd8366e43d986f8498217a9cb3e337eb9",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Snare808Snap",
+      "name": "TR-808 Snare (Snappy)",
+      "category": "drums/808",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/tr808/SD/SD5050.WAV",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "bab556378d391122bd70d8fcdcf85cb83469a4345048f9bfd61f66503574cdb6",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "HatClosed808",
+      "name": "TR-808 Closed Hat",
+      "category": "drums/808",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/tr808/CH/CH.WAV",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "9d1306c959da0d4baebf21208aacf93511052f35843d47cc7653e2aee427b9ac",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "HatOpen808",
+      "name": "TR-808 Open Hat",
+      "category": "drums/808",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/tr808/OH/OH00.WAV",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "9b7e570753ce0603a0b9971cb9be43924bbd0f811c076e8bc99b99b8b1634924",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Clap808",
+      "name": "TR-808 Hand Clap",
+      "category": "drums/808",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/tr808/CP/CP.WAV",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "b6676ebf553b1c59e26ef3031d00858e42cf0084d88ab3737d150260fb8b95db",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Rim808",
+      "name": "TR-808 Rimshot",
+      "category": "drums/808",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/tr808/RS/RS.WAV",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "c9f4ccc867a34cfffe05abd570b0e38d152c3a7803b24e843b94f0493e0a2bef",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Clave808",
+      "name": "TR-808 Clave",
+      "category": "drums/808",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/tr808/CL/CL.WAV",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "49c7f8e58efb6ceec5f9a62327fce0bf5c9dd0f9747c1ca15528627181661b4a",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Cowbell808",
+      "name": "TR-808 Cowbell",
+      "category": "drums/808",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/tr808/CB/CB.WAV",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "9ae215c359a060ec8cb34fda38cf075f5fede0d4163cc83a478e93da747f8061",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Maraca808",
+      "name": "TR-808 Maracas",
+      "category": "drums/808",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/tr808/MA/MA.WAV",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "cdc6893cb0d3f184af462f52545c719d5a7bc3fce0de83dd90a2e4037d900888",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Cymbal808",
+      "name": "TR-808 Cymbal",
+      "category": "drums/808",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/tr808/CY/CY0000.WAV",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "c6f3ed5125686cdee0a1edc7ce9313f2c9a66d2472b5648de236aaf646122aa9",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Conga808Hi",
+      "name": "TR-808 Hi Conga",
+      "category": "drums/808",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/tr808/HC/HC00.WAV",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "800ef27469922d227b6ee20f5050ed5be700e2afb9b57fad998a89c34de83081",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Conga808Mid",
+      "name": "TR-808 Mid Conga",
+      "category": "drums/808",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/tr808/MC/MC00.WAV",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "4648588b31048548b9b8c6b20c8b4237ab69a68898b722e0000d7a342cb5b813",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Conga808Lo",
+      "name": "TR-808 Lo Conga",
+      "category": "drums/808",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/tr808/LC/LC00.WAV",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "88df07c580895824d2bf904f66d1d6994d4abb31ce26f2a20209341365a360a4",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Tom808Hi",
+      "name": "TR-808 Hi Tom",
+      "category": "drums/808",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/tr808/HT/HT00.WAV",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "e62b6ef5e322838184a2ec11f560187b5c2c92e3a5a16b5777dd4f7e4033524e",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Tom808Mid",
+      "name": "TR-808 Mid Tom",
+      "category": "drums/808",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/tr808/MT/MT00.WAV",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "870b6dd653a754999b51a3632cd54ba18a2fabac20d7d9c35dd68b42584c2cb3",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Tom808Lo",
+      "name": "TR-808 Lo Tom",
+      "category": "drums/808",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/tr808/LT/LT00.WAV",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "98f1934797a6ed2b4788b81841e44c3ec7b331f4b48e039fc63bef453a1dbe09",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Kick909",
+      "name": "TR-909-style Kick",
+      "category": "drums/909",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/clubkick/1.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "3bf95352212e25a9ae499c758dbb57d1ac47afa32ecd5dec077472564f8bfb36",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Snare909",
+      "name": "TR-909 Snare",
+      "category": "drums/909",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/tr909/ST0T0S0.WAV",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "88d021a967f785552b1bcd81f162768af4f45c335c4680d2cbd78029ee0cd7bd",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Snare909Rim",
+      "name": "TR-909 Rimshot",
+      "category": "drums/909",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/tr909/RIM127.WAV",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "6ef527164bab09d24fb2006f3330a1315b1bccd77e4b6b95b3bf6ac5f82c1b2c",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "HatClosed909",
+      "name": "TR-909 Closed Hat",
+      "category": "drums/909",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/tr909/HHCD0.WAV",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "be226b35770730f503062ea218e63b0fdda39380ffb2403d6d3940e040c9b4d2",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "HatOpen909",
+      "name": "TR-909 Open Hat",
+      "category": "drums/909",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/tr909/HHOD0.WAV",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "b243fbc499a3d9d93efdb20c0950d01b57662e5ff5737055eabcab2bdce3e0f5",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Clap909",
+      "name": "TR-909 Hand Clap",
+      "category": "drums/909",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/tr909/HANDCLP1.WAV",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "6faf358a2cbb7dd7e12c0498eccb9e7a7f16a61595541dd5f7dafc272e5019c6",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Ride909",
+      "name": "TR-909 Ride",
+      "category": "drums/909",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/tr909/RIDED0.WAV",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "ee2faff3870fa25542408367db33c9f5667234e4363f739cd1f2c978754fc1da",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Crash909",
+      "name": "TR-909 Crash",
+      "category": "drums/909",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/tr909/CSHD0.WAV",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "9fac6aa7fd05a55dac464fcd6b29a29aac686dc97694803b8a8abc3f6f4f76c0",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Tom909Hi",
+      "name": "TR-909 Hi Tom",
+      "category": "drums/909",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/tr909/HT0D0.WAV",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "ee00b95722df2bc6ec8012f0cb605b1b53c109498e083da2a52a917a6d568dd2",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Tom909Mid",
+      "name": "TR-909 Mid Tom",
+      "category": "drums/909",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/tr909/MT0D0.WAV",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "6e176c390da64cc9105ea5da2bf817dad77d95cc8e70954699c2768f4db3178a",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Tom909Lo",
+      "name": "TR-909 Lo Tom",
+      "category": "drums/909",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/tr909/LT0D0.WAV",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "c1ac6a920e55de710b148d05abd5b2a8e406aca5ab673e22d39fb0ce270f819f",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "HatOpenClosed909",
+      "name": "TR-909 Open-Closed Hat",
+      "category": "drums/909",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/tr909/OPCL1.WAV",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "63bc15c31cb28629d63e588b86a5f408746a4fa6e6a13dd4611925b67ead0bc6",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "DR55Kick",
+      "name": "Boss DR-55 Kick",
+      "category": "drums/dr55",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/dr55/001_DR55%20kick.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "f31a9c7307a3e8431adb1c85243422b1636fdad684d7bd1af127c7dcfe98fcd1",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "DR55Snare",
+      "name": "Boss DR-55 Snare",
+      "category": "drums/dr55",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/dr55/003_DR55%20snare.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "c55e3e2ab68fbf52da7b11803969c39fc2e87520798f4afc9c8b35d0fd726820",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "DR55Hat",
+      "name": "Boss DR-55 Hi-Hat",
+      "category": "drums/dr55",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/dr55/000_DR55%20hi%20hat.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "2df829b63e8da37f5052f3c15e03ab2b9fb8c320420c0f21cae725ad62f56155",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "DR55Rim",
+      "name": "Boss DR-55 Rimshot",
+      "category": "drums/dr55",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/dr55/002_DR55%20rimshot.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "6e124981b5e19433d05d453b89441aa48914b0421cf43d2a0a5c844adf280246",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "DTKick",
+      "name": "DrumTraks Kick",
+      "category": "drums/drumtraks",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/drumtraks/006_DT%20Kick.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "3483beda903756f24abb444a9c0c7c6ab5125caec551759b96f1995d55767e51",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "DTSnare",
+      "name": "DrumTraks Snare",
+      "category": "drums/drumtraks",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/drumtraks/009_DT%20Snare.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "d0ff0fe1d072d307a912224d1f890e744a651d7072377c912c05a99a28965354",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "DTHatClosed",
+      "name": "DrumTraks Closed Hat",
+      "category": "drums/drumtraks",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/drumtraks/004_DT%20Hat%20Closed.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "4a94356e29d113dab9fad28c1c5627f55764bab1fdf564aed01ca56281cf0f31",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "DTHatOpen",
+      "name": "DrumTraks Open Hat",
+      "category": "drums/drumtraks",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/drumtraks/005_DT%20Hat%20Open.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "c2de1ff4175367588d77ae01f6996485608cdb586be4dacea0276c5ebfadf105",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "DTClap",
+      "name": "DrumTraks Clap",
+      "category": "drums/drumtraks",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/drumtraks/001_DT%20Claps.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "341abd2e6c60a421a1f3b59fc7f49728d5415ae616dee0fc11419158aa63a997",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "DTCowbell",
+      "name": "DrumTraks Cowbell",
+      "category": "drums/drumtraks",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/drumtraks/002_DT%20Cowbell.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "1f9d6184dcfa5e214d959fce931873d77997ebd4ec10e59ab2ed119c0b5e30fd",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "DTCrash",
+      "name": "DrumTraks Crash",
+      "category": "drums/drumtraks",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/drumtraks/003_DT%20Crash.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "66c4723765a13c26a15cbbab4de5101590af87c4055e94c6c9ec758a52418ade",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "DTRide",
+      "name": "DrumTraks Ride",
+      "category": "drums/drumtraks",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/drumtraks/007_DT%20Ride.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "04e91476e53bd4b7cd78e768993086ddf71fc24ebcdcd1016d5e6a0c59410bb6",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "DTRimshot",
+      "name": "DrumTraks Rimshot",
+      "category": "drums/drumtraks",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/drumtraks/008_DT%20Rimshot.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "11ace5f2e72fe842ad65059ae82289c2972df907b54d583be6ea2819f80cbfa7",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "DTTambourine",
+      "name": "DrumTraks Tambourine",
+      "category": "drums/drumtraks",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/drumtraks/010_DT%20Tambourine.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "0b9ab75ddebd6ddb29fecb10b49cbb754eecd92f96d21e6b796abbeb43ae947c",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "DTCabasa",
+      "name": "DrumTraks Cabasa",
+      "category": "drums/drumtraks",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/drumtraks/000_DT%20Cabasa.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "3f99c947403cda5c3a4cfc01c486990a5faab90efdbf59ea4588ade071fd56ad",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "DTTom1",
+      "name": "DrumTraks Tom 1",
+      "category": "drums/drumtraks",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/drumtraks/011_DT%20Tom1.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "0e38a941b3685078d980873435aa18ebe35e5debef2754a6dfb040eab17beb3f",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "DTTom2",
+      "name": "DrumTraks Tom 2",
+      "category": "drums/drumtraks",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/drumtraks/012_DT%20Tom2.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "d2eb4efc6105a6ecd5cb65f979f7530f8d1928b2d28d62039b40b6686044ef79",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "CR78Ride",
+      "name": "CR-78 Ride",
+      "category": "drums/cr78",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/cr/RIDED0.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "ee2faff3870fa25542408367db33c9f5667234e4363f739cd1f2c978754fc1da",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "CR78RideBright",
+      "name": "CR-78 Ride (Bright)",
+      "category": "drums/cr78",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/cr/RIDEDA.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "537ff530a96457bc5d802689ab7b6942f505defc30fe9ac65ac6f8a9f26b1bbd",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "LinnKick",
+      "name": "LinnDrum Kick",
+      "category": "drums/linndrum",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/linndrm/kick.wav",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "032682af1726013e159c2996b4fd7aeb46bcd3865aabcaddf6a312b9b4af9886",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "LinnSnare",
+      "name": "LinnDrum Snare",
+      "category": "drums/linndrum",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/linndrm/sd.wav",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "beed43992ba1cfd181af5aaf88372a1108c8cebf317869068cec52ab0ad08e14",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "LinnSnareHi",
+      "name": "LinnDrum Snare (Hi)",
+      "category": "drums/linndrum",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/linndrm/sdh.wav",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "621b31bedba1d05754c8bda950cd56125d358a1c127942d847820e80752e1e72",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "LinnHatClosed",
+      "name": "LinnDrum Closed Hat",
+      "category": "drums/linndrum",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/linndrm/chh.wav",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "faec19acae17e8f836542c8df5e40e5173fad777a23c68c3afb74fbc6ab12c82",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "LinnCabasa",
+      "name": "LinnDrum Cabasa",
+      "category": "drums/linndrum",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/linndrm/cabasa.wav",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "a8aef7360d8dc7b8f7372739f9fd606ebe2826523e6c831d5abc2bfe6ff9d685",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "LinnClap",
+      "name": "LinnDrum Clap",
+      "category": "drums/linndrum",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/linndrm/clap.wav",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "c0b3e54c20623266b7538866e8237e84d29784728f437a6e15e693c295e37503",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "LinnConga",
+      "name": "LinnDrum Conga",
+      "category": "drums/linndrum",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/linndrm/conga.wav",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "664af1678c28be7b479046b47913e9d4029f5933e07e9502693f280eb40fd68c",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "LinnCowbell",
+      "name": "LinnDrum Cowbell",
+      "category": "drums/linndrum",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/linndrm/cowb.wav",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "507bd014c021843512a29fcc1fff2a8465e3ad2001264bffd244a75d119ba9b4",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "LinnCrash",
+      "name": "LinnDrum Crash",
+      "category": "drums/linndrum",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/linndrm/crash.wav",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "e27d1ef1caace0844d18ba638e0688ca78caa3276c2d4e5d5f9d0b485cbd381f",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "LinnRide",
+      "name": "LinnDrum Ride",
+      "category": "drums/linndrum",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/linndrm/ride.wav",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "1980d95c45da3001348e9ae25b4e7c0a26ad703191c7779a00d90d366f40de65",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "LinnTamb",
+      "name": "LinnDrum Tambourine",
+      "category": "drums/linndrum",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/linndrm/tamb.wav",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "80fbd734c0d75fe0ba275b845c944869cb4b26805015277125073a81bc92f3b1",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "LinnTom",
+      "name": "LinnDrum Tom",
+      "category": "drums/linndrum",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/CarlosIrineuCosta/tr808-drum/a3ceaa79c9681fbe587e22200998d64faaa85af1/samples/linndrm/tom.wav",
+        "license": "Public-Domain",
+        "attribution": "Roland TR-808/909 \u0026 LinnDrum classic archive (github.com/CarlosIrineuCosta/tr808-drum)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "d605c1d1a3950ca651771748042de09b3c40280c508b2e08337d8dc70698d3a3",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "WoodBlock",
+      "name": "Wood Block",
+      "category": "percussion",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/east/000_nipon_wood_block.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "9b23d3ed1001fd3bfe9d526700d0dad739c639c4678aafd8761173cb70e150ed",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Taiko1",
+      "name": "Taiko Drum 1",
+      "category": "percussion",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/east/006_taiko_1.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "05a73fdfb9e71ee93be801d5a7875af49e39bb87eaaafa3445db4aada5066c3b",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Taiko2",
+      "name": "Taiko Drum 2",
+      "category": "percussion",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/east/007_taiko_2.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "d902eb3fa8c96a43fee0918c36731caca0a1c75de2ad2728a98ec3e34cc9e6e1",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Taiko3",
+      "name": "Taiko Drum 3",
+      "category": "percussion",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/east/008_taiko_3.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "5bbd0d45938230316a37afd8df4c4cd1f01b1375f0fd3bf1c1e7f4a970719900",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "ShimeHi",
+      "name": "Shime Daiko (Hi)",
+      "category": "percussion",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/east/003_shime_hi.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "1ccf0c3bc01131efe1d7cd88201cd2e4ba333066ed060d438717749c9367e632",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "ShimeMute",
+      "name": "Shime Daiko (Mute)",
+      "category": "percussion",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/east/005_shime_mute.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "67a0ffec678d91a7f062cbf6c022b246c313f5c55bba5c47a86d243a23b0ad56",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "OhkawaOpen",
+      "name": "Ohkawa (Open)",
+      "category": "percussion",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/east/002_ohkawa_open.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "8b6607e8a2ae2fdb64527bb58c223086900392fc3cfa9b9efcd8c540a66079e4",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "OhkawaMute",
+      "name": "Ohkawa (Mute)",
+      "category": "percussion",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/east/001_ohkawa_mute.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "79ec7a8d2789b06d1e9a4035f459d57f8c1b7661521e504f66c0dd639011ea50",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "TablaBass",
+      "name": "Tabla Bass Flick",
+      "category": "percussion",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/tabla/000_bass_flick1.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "631b9cbf419796e33b30f919c376eae84c06b527255203c8aa0bf7c1cabfb2cd",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "TablaHi",
+      "name": "Tabla Hi Hit",
+      "category": "percussion",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/tabla/009_hi_hit1.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "dfaac07f700ceae637431b28ffe98a1783c86ad2d8fe21827f56af8aed3636a8",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Clap",
+      "name": "Hand Clap",
+      "category": "percussion",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/hand/hand1-mono.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "f31b45a5329cd4e34f5b1d339ae9b295cbe654cf0fde43d8ac292aba5b26135b",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Clap2",
+      "name": "Hand Clap 2",
+      "category": "percussion",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/hand/hand11-mono.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "75b4b1e1e6fe73653319b356d2db17b32b53a947f36e012481edfdce12a1ae44",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "BassSub",
+      "name": "Sub Bass 1",
+      "category": "melodic",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/bass/000_bass1.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "381bf2d0ebdbefea58bb2aa29e044a3161fd930109f7754db5ace1f789feec7e",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "BassSub2",
+      "name": "Sub Bass 2",
+      "category": "melodic",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/bass/001_bass2.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "a15d0af10ffc57749a2aeb76dad90338b96cfb55b9c91a485c0a17b500a076cc",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "BassSub3",
+      "name": "Sub Bass 3",
+      "category": "melodic",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/bass/002_bass3.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "bb598698addc0810db9ef628978725ff1ad47d3d0b956ee83482ea36aeb1d073",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "JvBass1",
+      "name": "JV Bass 1",
+      "category": "melodic",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/jvbass/000_01.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "c2463d6fc83b96928ab5d68640f1924a201be255b0df99b65860816d6b16b60d",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "JvBass2",
+      "name": "JV Bass 2",
+      "category": "melodic",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/jvbass/001_02.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "2875ac5f0bc2c4d2d475c7bda9929971cedc002196e5906383d9cb89567233f5",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "JvBass3",
+      "name": "JV Bass 3",
+      "category": "melodic",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/jvbass/002_03.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "97de98ea10ae9afdf72dcdfc0f9483012f7d915e484777df029f2c82500cb7f3",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Arpy1",
+      "name": "Arp Pluck 1",
+      "category": "melodic",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/arpy/arpy01.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "93e173b43d7075de55040cc9288bccb5bd5a0cec9e380f602144385413a7de73",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Arpy2",
+      "name": "Arp Pluck 2",
+      "category": "melodic",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/arpy/arpy02.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "ab837f71b7c86786351a3c61047c4ff80a8c9d48a7ef09851848961eef799cba",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Arpy3",
+      "name": "Arp Pluck 3",
+      "category": "melodic",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/arpy/arpy03.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "1004ffa959e65fd55f70ce71ac8d9f3fc82808820105109a3983ba3350e45493",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Arpy4",
+      "name": "Arp Pluck 4",
+      "category": "melodic",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/arpy/arpy04.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "21e640b461e00a8dd48a381ef7e461c8a8f78c4604dd9acdbe35a04fefa93abb",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Arpy5",
+      "name": "Arp Pluck 5",
+      "category": "melodic",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/arpy/arpy05.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "b3b445fd987a23e6d17f8b2d30f557b80efce70f6f557ee16de8c7db14cd4513",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Arpy6",
+      "name": "Arp Pluck 6",
+      "category": "melodic",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/arpy/arpy06.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "a83fb0d714162865b05f500f0a415237cf31dfb87f35ea22faf0b66d1f01c0dd",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "SitarMaj",
+      "name": "Sitar Chord (D Major)",
+      "category": "melodic",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/sitar/000_d_maj_sitar_chorda.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "68714a9072a100327a77c6d5fe624afb4e6849fb5c32ab80407bf404723267cb",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "SitarMin",
+      "name": "Sitar Chord (D Minor)",
+      "category": "melodic",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/sitar/005_d_minor_sitar_chorda.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "7a211f50db442a830e20539a497afa7847fb49b24a133f2418e0ff9ecadee278",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Noise",
+      "name": "White Noise Hit",
+      "category": "fx",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/noise/000_noise.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "a89664c64b45f931fd13681e16172066d2dca15d42a034688c69cae748e021f7",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Space1",
+      "name": "Space FX 1",
+      "category": "fx",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/space/000_0.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "cfb68f69e1a076e8e1fa18d00d684746e9460c17a43683ac06a91e100d8113d7",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Space2",
+      "name": "Space FX 2",
+      "category": "fx",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/space/001_1.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "219264e318fbb984e02b7adf88c615eedeed626a02fe9778ae4d2a4749d51926",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Industrial1",
+      "name": "Industrial Hit 1",
+      "category": "fx",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/industrial/000_01.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "0fd4f6d7d0f3eb9bc6e97e78afda293c6570c76e4c6b2e92452ca3ee48a561bc",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Industrial2",
+      "name": "Industrial Hit 2",
+      "category": "fx",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/industrial/001_02.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "a254b9439b9037ca9d30a473ea692a70a1f3dda415505521c2434614ea388520",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Metal1",
+      "name": "Metal Hit 1",
+      "category": "fx",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/metal/000_0.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "41d64c08addeb034922afdd7a428de1732d04b93e5c834cd150d7a4404446418",
+      "config": {
+        "gain": 1.0
+      }
+    },
+    {
+      "id": "Wind1",
+      "name": "Wind FX 1",
+      "category": "fx",
+      "tier": "default",
+      "source": {
+        "provider": "github",
+        "url": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/c74fc80f8db8038f6a33648ffef5ac00a07ad402/wind/000_wind1.wav",
+        "license": "Public-Domain",
+        "attribution": "TidalCycles Dirt-Samples (github.com/tidalcycles/Dirt-Samples)"
+      },
+      "transform": {
+        "normalize_peak_dbfs": -1,
+        "trim_silence": true
+      },
+      "sha256": "2ff062c319429a388bc98daa7835715257dc62720df275c660436cca9c6beec1",
+      "config": {
+        "gain": 1.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+# Build artifacts
+/mac
+
+# Rendered audio
+*.mp3
+
+# Restricted-tier fetched samples (cymatics/99sounds/goldbay etc.) — never
+# committed to avoid EULA violations. See specs/006-default-sound-library.md.
+/instruments/_restricted/
+*.db

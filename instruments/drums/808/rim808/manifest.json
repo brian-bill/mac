@@ -1,0 +1,8 @@
+{
+  "id": "Rim808",
+  "name": "TR-808 Rimshot",
+  "sample": "Rim808.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

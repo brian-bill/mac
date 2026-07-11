@@ -1,0 +1,8 @@
+{
+  "id": "Arpy1",
+  "name": "Arp Pluck 1",
+  "sample": "Arpy1.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

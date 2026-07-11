@@ -1,0 +1,8 @@
+{
+  "id": "HatClosed808",
+  "name": "TR-808 Closed Hat",
+  "sample": "HatClosed808.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

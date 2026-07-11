@@ -1,0 +1,8 @@
+{
+  "id": "DR55Kick",
+  "name": "Boss DR-55 Kick",
+  "sample": "DR55Kick.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

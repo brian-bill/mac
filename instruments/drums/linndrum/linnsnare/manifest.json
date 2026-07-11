@@ -1,0 +1,8 @@
+{
+  "id": "LinnSnare",
+  "name": "LinnDrum Snare",
+  "sample": "LinnSnare.wav",
+  "config": {
+    "gain": 1.0
+  }
+}

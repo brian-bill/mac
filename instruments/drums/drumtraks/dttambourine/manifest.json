@@ -1,0 +1,8 @@
+{
+  "id": "DTTambourine",
+  "name": "DrumTraks Tambourine",
+  "sample": "DTTambourine.wav",
+  "config": {
+    "gain": 1.0
+  }
+}
